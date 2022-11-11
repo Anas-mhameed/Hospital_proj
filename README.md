@@ -1,5 +1,14 @@
 # Git Tutorial
 
-lets start learning git & github 
+YLA   
  
  ---
+
+### Get started
+
+to get started ...
+follow the steps below
+
+* one 
+* two
+* three
